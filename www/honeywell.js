@@ -1,5 +1,3 @@
-cordova.define("com.initzero.honeywell.HoneywellScannerPlugin", function(require, exports, module) {
-//cordova.define("com.initzero.honeywell.HoneywellScannerPlugin", function(require, exports, module) {
 var exec = require('cordova/exec');
 
 var honeywell = {
@@ -22,4 +20,4 @@ var honeywell = {
 };
 
 module.exports = honeywell;
-//});
+
