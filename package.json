@@ -1,0 +1,23 @@
+{
+  "name": "com.initzero.honeywell",
+  "version": "0.1.0",
+  "description": "Honeywell BCH Plugin",
+  "cordova": {
+    "id": "com.initzero.honeywell",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "",
+  "license": "ISC"
+}
